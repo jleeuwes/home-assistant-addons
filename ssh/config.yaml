@@ -1,7 +1,7 @@
 ---
 version: 9.6.2
-slug: ssh
-name: Terminal & SSH
+slug: ssh-FORK
+name: Terminal & SSH (FORK)
 description: Allow logging in remotely to Home Assistant using SSH
 url: https://github.com/home-assistant/hassio-addons/tree/master/ssh
 codenotary: notary@home-assistant.io
